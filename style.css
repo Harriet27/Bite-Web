@@ -137,13 +137,7 @@ body {
     display: block;
 }
 
-.content-row1 {
-    padding: 10px 10px 10px 10px;
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.content-row2 {
+.product-row {
     padding: 10px 10px 10px 10px;
     display: flex;
     flex-wrap: wrap;
